@@ -131,10 +131,15 @@ cp .env.example .env
 ```bash
 python -m pytest tests -v
 ```
+### 5. Instale o Streamlit
+```bash
+python -m pip install streamlit
+python -m streamlit --version
+```
 
 ### 5. Iniciando a Aplicação Web
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 Acesse no navegador: `http://localhost:8501`.
 

@@ -137,7 +137,7 @@ python -m pip install streamlit
 python -m streamlit --version
 ```
 
-### 5. Iniciando a Aplicação Web
+### 6. Iniciando a Aplicação Web
 ```bash
 python -m streamlit run app.py
 ```
